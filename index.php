@@ -17,6 +17,8 @@
     </ul>
    <h1>Utils</h1>
     <ul>
+      <li><a href="hosts.php">Hosts</a></li>
+      <li><a href="ipaddress.php">IP Address</a></li>   
       <li><a href="phpinfo.php">PHP Info</a></li>
     </ul>   
   </body>
